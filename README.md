@@ -1,10 +1,10 @@
 # Conway’s Game of Life
 
-This is a simple implementation of Conway's Game of Life in Golang.
+This is a simple implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in Golang.
 
 ## Run instructions
 
-You can use any Life 1.06 file as input.
+You can use any [Life 1.06 file](http://www.conwaylife.com/wiki/Life_1.06) as input.
 ````
 cat example.lif | go run main.go
 ````
